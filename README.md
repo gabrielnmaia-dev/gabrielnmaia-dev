@@ -27,11 +27,11 @@ My development mindset is guided by **architecture, performance, clean code, and
 
 Atualmente dedico meu tempo a aprender e aplicar:
 
-🏗️ **SaaS & High-scale systems:** Entendendo como construir produtos focados em regras de negócio.
+🏗️ **SaaS & High-scale systems:** Understanding how to build products focused on business rules.
 
-⚡ **Performance & Quality:** Estudando conceitos de Clean Architecture e otimização de código.
+⚡ **Performance & Quality:** Studying Clean Architecture concepts and code optimization.
 
-🔐 **Modern Web:** Praticando a criação de APIs seguras, autenticação e dashboards.
+🔐 **Modern Web:** Practicing the creation of secure APIs, authentication, and dashboards.
 
 ---
 

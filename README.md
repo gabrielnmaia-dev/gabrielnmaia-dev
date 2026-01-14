@@ -25,7 +25,7 @@ My development mindset is guided by **architecture, performance, clean code, and
 
 ## 🧠 My Focus & Studies
 
-Atualmente dedico meu tempo a aprender e aplicar:
+Currently, I dedicate my time to learning and applying.
 
 🏗️ **SaaS & High-scale systems:** Understanding how to build products focused on business rules.
 

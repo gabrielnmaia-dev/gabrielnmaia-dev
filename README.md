@@ -68,7 +68,6 @@ Currently, I dedicate my time to learning and applying:
 
 ## 🐍 Contribution Snake
 
-<!-- Snake animation - light/dark mode support -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielnmaia-dev/gabrielnmaia-dev/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielnmaia-dev/gabrielnmaia-dev/output/github-snake.svg">

@@ -1,8 +1,10 @@
 # Hi 👋, I'm Gabriel Maia
 
-🚀 **Systems Analysis and Development Student | Aspiring Full Stack Developer** 🇧🇷 Brazil
+**Systems Analysis and Development Student | Aspiring Full Stack Developer**  
+🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
+I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.
+
 My development mindset is guided by **architecture, performance, clean code, and business-oriented solutions**.
 
 ---
@@ -25,52 +27,62 @@ My development mindset is guided by **architecture, performance, clean code, and
 
 ## 🧠 My Focus & Studies
 
-Currently, I dedicate my time to learning and applying.
+Currently, I dedicate my time to learning and applying:
 
-🏗️ **SaaS & High-scale systems:** Understanding how to build products focused on business rules.
-
-⚡ **Performance & Quality:** Studying Clean Architecture concepts and code optimization.
-
-🔐 **Modern Web:** Practicing the creation of secure APIs, authentication, and dashboards.
+- 🏗️ **SaaS & High-scale systems** → Understanding how to build products focused on business rules
+- ⚡ **Performance & Quality** → Studying Clean Architecture concepts and code optimization
+- 🔐 **Modern Web** → Practicing the creation of secure APIs, authentication, and dashboards
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend & Frameworks
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Database
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+### Backend
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielnmaia-dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielnmaia-dev&layout=compact&langs_count=7&theme=tokyonight" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielnmaia-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielnmaia-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- Snake animation - light/dark mode support -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielnmaia-dev/gabrielnmaia-dev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielnmaia-dev/gabrielnmaia-dev/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielnmaia-dev/gabrielnmaia-dev/output/github-snake.svg">
+</picture>
 
 ---
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> *"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."*
 
 ---
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
-

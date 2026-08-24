@@ -1,15 +1,21 @@
-# Hi 👋, I'm Gabriel Maia
+# Olá, eu sou o Felipe (Gabriel Maia) 👋
 
-**Systems Analysis and Development Student | Aspiring Full Stack Developer**  
-🇧🇷 Brazil
+**Desenvolvedor Backend | Estudante de ADS na UNIFIP (2023–2027)**
+📍 Paraíba, Brasil — aberto a trabalho remoto
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.
-
-My development mindset is guided by **architecture, performance, clean code, and business-oriented solutions**.
+Construo APIs e sistemas de verdade — não só projetos de curso. Meu foco é backend com **Python/Django/DRF**, mas transito por todo o stack quando o projeto pede.
 
 ---
 
-## 🌐 Where to find me
+## 🚀 O que estou fazendo agora
+
+- 🏢 Estagiando na **Constructrol**, plataforma de gestão de qualidade e produção para construção civil (React/TypeScript no front, NestJS no back)
+- 🤖 Construindo um **agente de RAG** (Retrieval-Augmented Generation) para o desafio do **Oracle Next Education**, usando Django + PostgreSQL/pgvector + Groq
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas, aprofundando estruturas de dados, SQL avançado e arquitetura de software
+
+---
+
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/gabrielnmaia-dev">
@@ -25,32 +31,40 @@ My development mindset is guided by **architecture, performance, clean code, and
 
 ---
 
-## 🧠 My Focus & Studies
+## 🛠️ Projetos em destaque
 
-Currently, I dedicate my time to learning and applying:
+### 🐾 VetManager
+Sistema completo de gestão para uma clínica veterinária real (Let Vet Clínica Veterinária & Pet Shop), em uso ativo pela clínica.
+`Django 6` `DRF` `React` `Vite` `Tailwind` — deploy em Render + Netlify
 
-- 🏗️ **SaaS & High-scale systems** → Understanding how to build products focused on business rules
-- ⚡ **Performance & Quality** → Studying Clean Architecture concepts and code optimization
-- 🔐 **Modern Web** → Practicing the creation of secure APIs, authentication, and dashboards
+### 🧠 Rag-Oracle
+Agente de RAG para leitura e resposta sobre documentos (PDF/CSV), desenvolvido para o desafio do Oracle Next Education.
+`Django` `PostgreSQL + pgvector` `Redis` `Docker` `Groq/Llama` `sentence-transformers`
+
+### 💪 FitTrack
+API REST para acompanhamento de treinos e dieta, com autenticação JWT, cache e documentação Swagger.
+`Django REST Framework` `PostgreSQL` `Redis` `Docker` `JWT`
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![CSS](https://img.shields.io/badge/CSS-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🧰 Stack
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Database
+### Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Tools
+### Frontend (quando o projeto full-stack pede)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -76,12 +90,12 @@ Currently, I dedicate my time to learning and applying:
 
 ---
 
-## 🚀 Philosophy
+## 💭 Filosofia
 
-> *"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."*
+> *"Código não é só resolver problemas.
+> É construir soluções que escalam, duram e geram valor real."*
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se curtiu meu trabalho, deixa uma estrela em algum repositório
+🤝 Sempre aberto a colaborações, parcerias e ideias interessantes

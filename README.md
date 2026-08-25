@@ -39,6 +39,7 @@ Currently, I dedicate my time to learning and applying:
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 

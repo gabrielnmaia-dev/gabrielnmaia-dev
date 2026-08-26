@@ -66,7 +66,7 @@ Currently, I dedicate my time to learning and applying:
 
 ---
 
-## 🐍 Contribution Snake
+## Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielnmaia-dev/gabrielnmaia-dev/output/github-snake-dark.svg">

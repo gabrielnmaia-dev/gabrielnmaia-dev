@@ -1,15 +1,18 @@
-# Hi 👋, I'm Gabriel Maia
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Gabriel%20Maia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Python%20%2F%20Django&descAlignY=55&descSize=18" />
+</p>
 
-**Systems Analysis and Development Student | Aspiring Full Stack Developer**  
-🇧🇷 Brazil
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+em+forma%C3%A7%C3%A3o;Python+%2F+Django+%2F+DRF;Estudante+de+ADS+na+UNIFIP;Construindo+sistemas+reais,+n%C3%A3o+s%C3%B3+projetos+de+curso&font=Fira+Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=22" />
+</p>
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.
+Sou o Felipe (Gabriel Maia), estudante de **Análise e Desenvolvimento de Sistemas** na UNIFIP e desenvolvedor com foco em **backend Python/Django**. Gosto de construir sistemas que resolvem problema de verdade — a maioria dos meus projetos nasce de uma necessidade real, não só de exercício acadêmico.
 
-My development mindset is guided by **architecture, performance, clean code, and business-oriented solutions**.
+Atualmente estou estagiando na **Constructrol**, plataforma de gestão de qualidade e produção para construção civil, atuando no front (React/TypeScript) e no back (NestJS) sob supervisão, e ao mesmo tempo desenvolvendo um agente de **RAG (Retrieval-Augmented Generation)** para o desafio do **Oracle Next Education**.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/gabrielnmaia-dev">
@@ -25,33 +28,37 @@ My development mindset is guided by **architecture, performance, clean code, and
 
 ---
 
-## 🧠 My Focus & Studies
+## 🚀 O que estou fazendo agora
 
-Currently, I dedicate my time to learning and applying:
-
-- 🏗️ **SaaS & High-scale systems** → Understanding how to build products focused on business rules
-- ⚡ **Performance & Quality** → Studying Clean Architecture concepts and code optimization
-- 🔐 **Modern Web** → Practicing the creation of secure APIs, authentication, and dashboards
+- 🏢 Estagiando na **Constructrol** (via Hemerson SI, Patos/PB) — 20h/semana, atuando com manutenção e desenvolvimento supervisionado em React/TypeScript e NestJS
+- 🤖 Desenvolvendo o **Rag-Oracle**, agente de RAG com Django + PostgreSQL/pgvector + Groq, para o desafio do Oracle Next Education
+- 🎓 Cursando ADS na UNIFIP, aprofundando arquitetura de software, banco de dados e boas práticas de backend
 
 ---
 
-## 🛠️ Tech Stack
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🧰 Stack
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### DevOps & Tools
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -76,12 +83,16 @@ Currently, I dedicate my time to learning and applying:
 
 ---
 
-## 🚀 Philosophy
+## 💭 Filosofia
 
-> *"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."*
+> *"Código não é só resolver problemas.
+> É construir soluções que escalam, duram e geram valor real."*
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrielnmaia-dev&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=58A6FF&style=for-the-badge" />
+</p>
+
+⭐ Se curtiu meu trabalho, deixa uma estrela em algum repositório
+🤝 Sempre aberto a colaborações, parcerias e ideias interessantes

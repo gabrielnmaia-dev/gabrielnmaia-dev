@@ -8,7 +8,6 @@
 
 Sou o Felipe (Gabriel Maia), estudante de **Análise e Desenvolvimento de Sistemas** na UNIFIP e desenvolvedor com foco em **backend Python/Django**. Gosto de construir sistemas que resolvem problema de verdade — a maioria dos meus projetos nasce de uma necessidade real, não só de exercício acadêmico.
 
-Atualmente estou estagiando na **Constructrol**, plataforma de gestão de qualidade e produção para construção civil, atuando no front (React/TypeScript) e no back (NestJS) sob supervisão, e ao mesmo tempo desenvolvendo um agente de **RAG (Retrieval-Augmented Generation)** para o desafio do **Oracle Next Education**.
 
 ---
 

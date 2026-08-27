@@ -30,7 +30,6 @@ Sou o Felipe (Gabriel Maia), estudante de **Análise e Desenvolvimento de Sistem
 ## 🚀 O que estou fazendo agora
 
 - 🏢 Estagiando na **Constructrol** (via Hemerson SI, Patos/PB) — 20h/semana, atuando com manutenção e desenvolvimento supervisionado em React/TypeScript e NestJS
-- 🤖 Desenvolvendo o **Rag-Oracle**, agente de RAG com Django + PostgreSQL/pgvector + Groq, para o desafio do Oracle Next Education
 - 🎓 Cursando ADS na UNIFIP, aprofundando arquitetura de software, banco de dados e boas práticas de backend
 
 ---
